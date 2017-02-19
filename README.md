@@ -1,1 +1,0 @@
-# OpenCV_3_Traffic_Cone_Detection_Cpp
